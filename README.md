@@ -9,3 +9,9 @@ check if installed/ which version: `npx tsc -v`
 Install: `npm install typescript`
 
 Set up Typescript configuration (`tsconfig.json`): `npx tsc --init`
+
+## Use Typescript
+
+Compile Typescript: `npx tsc` (finds files in / writes files to configured locations)
+
+Run compiled script: `node dist/index.js`
