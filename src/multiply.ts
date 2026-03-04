@@ -1,4 +1,7 @@
-function multiply(a: number, b: number): number {
+type mathFunction = (a: number, b: number) => number;
+
+
+const multiply: mathFunction = (a, b) => {
     return a * b;
 }
 
