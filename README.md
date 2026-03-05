@@ -1,6 +1,9 @@
-# Getting-Started-with-TypeScript
+# Learning / Exercising TypeScript
 
-Companion repository for "Getting Started with TypeScript", https://www.coursera.org/learn/getting-started-with-typescript/
+Companion repository for:
+
+1. [Getting Started with TypeScript](https://www.coursera.org/learn/getting-started-with-typescript/)
+2. [Advanced TypeScript with OOP](https://www.coursera.org/learn/advanced-typescript-with-oop)
 
 ## Install Typescript
 
